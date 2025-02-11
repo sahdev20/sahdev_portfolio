@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 
-import profilePic from '../../public/images/profile/developer-pic-1.png';
+import profilePic from '../../public/images/sahdev.png';
 import Layout from '@/components/layout';
 import AnimatedText from '@/components/AnimatedText';
 import {motion} from 'framer-motion';
