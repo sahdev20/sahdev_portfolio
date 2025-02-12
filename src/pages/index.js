@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Sahdev Patel - Portfolio</title>
+        <title>Sahdev Patel</title>
         <meta name="description" content="Sahdev Patel Portolio" />
        
       </Head>
