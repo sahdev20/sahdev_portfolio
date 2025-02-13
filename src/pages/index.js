@@ -71,7 +71,7 @@ about contributing to innovative, scalable solutions in a dynamic environment.
 
   >Resume<LinkArrow className={"w-6 ml-1"}/>
   </Link>
-  <Link href="mailto:Sahdev.01patel@gmail.com" target={"_blank"}
+  <Link href="/contact" 
   className='ml-4 text-lg font-medium capitalize text-dark underline dark:text-light md:text-base'
   >Contact</Link>
 </div>

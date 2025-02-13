@@ -9,11 +9,11 @@ const Footer = () => {
         <span>
             {new Date().getFullYear()} &copy; All Rights Reserved 
         </span>
-<div className='flex items-center lg:py-2'>
+{/* <div className='flex items-center lg:py-2'>
 Built With <span className='text-primary dark:text-primaryDark text-2xl px-1'>&#9825;</span> by&nbsp; <Link href="/" className='underline underline-offset-2' target={"_blank"}>
         CodeWithDhruv
         </Link>
-</div>
+</div> */}
         
         
         <Link href="mailto:Sahdev.01patel@gmail.com" className='underline underline-offset-2'>

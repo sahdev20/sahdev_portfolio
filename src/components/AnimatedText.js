@@ -45,7 +45,7 @@ const AnimatedText = ({text, className = ""}) => {
         variants={quote}
         initial="initial"
         animate="animate"
-        className={`inline-block w-full text-dark font-bold capitalize text-8xl
+        className={`inline-block w-full text-dark font-bold capitalize text-7xl
         
         dark:text-light
         ${className}`}>

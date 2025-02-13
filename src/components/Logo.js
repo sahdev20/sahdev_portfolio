@@ -40,7 +40,7 @@ const Logo = () => {
           transition: { duration: 1, repeat: Infinity }
         }}
       >
-        CD
+        SP
       </MotionLink>
     </div>
   );
